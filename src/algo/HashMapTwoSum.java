@@ -1,3 +1,4 @@
+//@Author:Shashank soni
 package algo;
 import java.util.*;
 public class HashMapTwoSum {
